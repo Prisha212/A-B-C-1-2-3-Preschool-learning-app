@@ -14,3 +14,10 @@ The **A,B,C 1,2,3 Preschool Learning App** is designed to help toddlers learn ba
    ```bash
    git clone https://github.com/Prisha212/A-B-C-1-2-3-Preschool-learning-app.git
 
+## Screenshots
+![Screenshot 1](screenshots/WhatsApp%20Image%202024-09-17%20at%2010.25.54%20(1).jpeg)
+![Screenshot 2](screenshots/WhatsApp%20Image%202024-09-17%20at%2010.25.54%20(2).jpeg)
+![Screenshot 3](screenshots/WhatsApp%20Image%202024-09-17%20at%2010.25.54.jpeg)
+![Screenshot 4](screenshots/WhatsApp%20Image%202024-09-17%20at%2010.25.55%20(1).jpeg)
+![Screenshot 5](screenshots/WhatsApp%20Image%202024-09-17%20at%2010.25.55%20(2).jpeg)
+![Screenshot 6](screenshots/WhatsApp%20Image%202024-09-17%20at%2010.25.55.jpeg)
